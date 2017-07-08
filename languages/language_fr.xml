@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<PAGE_TITLE>		
+		Bienvenue à Azul Solution
+	</PAGE_TITLE>
+	
+	<PAGE_DESC>		
+		Réparation d'ordinateurs à domicile, satisfaction garantie.
+	</PAGE_DESC>
+	
+	<CONTENT_EN>	
+		Anglais
+	</CONTENT_EN>
+	
+	<CONTENT_FR>
+		Francais
+	</CONTENT_FR>
+
+	<ABOUT>
+		À propos
+	</ABOUT>
+
+	<SERVICE>
+		Nos services
+	</SERVICE>
+
+	<CONTACT>
+		Nous Cotacter
+	</CONTACT>
+
+	<LOGO>
+		Une solution à vos problèmes informatiques 
+	</LOGO>
+
+	<BtnMore>
+		En savoir plus
+	</BtnMore>
+	
+	<AboutTitle>
+		Qui nous sommes
+	</AboutTitle>
+
+	<AboutDesc>
+		Azul solution est une jeune entreprise spécialisée dans le soutien technique et la réparation d'ordinateurs. Nous sommes à votre disposition pour répondre à vos besoins de façon rapide et personnalisé. 
+	</AboutDesc>
+
+	<btnAbout>
+		Decouvrez nos services
+	</btnAbout>
+
+	<servicesHeader>
+		À votre service
+	</servicesHeader>
+
+	<WEBSRVTITLE>
+		Développement Web
+	</WEBSRVTITLE>
+
+	<WEBSRVDESC>
+		Création des sites web, hébergement et maintenance
+	</WEBSRVDESC>
+
+	<HardwareSrvTitle>
+		Matériel
+	</HardwareSrvTitle>
+
+	<HardwareSrvDesc>
+		Installation et réparation de matériel informatique
+	</HardwareSrvDesc>
+
+	<SoftSrvTitle>
+		Logiciel
+	</SoftSrvTitle>
+
+	<SoftSrvDesc>
+		Configuration installation et systèmes
+	</SoftSrvDesc>
+
+	<TabletSrvTitle>
+		Tablettes
+	</TabletSrvTitle>
+
+	<TabletSrvDesc>
+		Soutien, installation et renseignement sur les meilleures pratiques d'utilisation
+	</TabletSrvDesc>
+
+	<VirusSrvTitle>
+		Virus
+	</VirusSrvTitle>
+
+	<VirusSrvDesc>
+		Nettoyage de fichiers malveillants et optimisation 
+	</VirusSrvDesc>
+
+	<RecoverySrvTitle>
+		Récupération de données
+	</RecoverySrvTitle>
+
+	<RecoverySrvDesc>
+		Disque dur PC/Mac, clé USB et cartes SD
+	</RecoverySrvDesc>
+
+	<RemoteSrvTitle>
+		Soutien à distance
+	</RemoteSrvTitle>
+
+	<RemoteSrvDesc>
+		Pourquoi perd plus de temps si nous pouvons vous dépanner à distance
+	</RemoteSrvDesc>
+
+	<FormationSrvTitle>
+		Formation
+	</FormationSrvTitle>
+
+	<FormationSrvDesc>
+		Cours d'informatique adaptés à vos besoins
+	</FormationSrvDesc>
+	
+	<BTNCOTACT>
+		Nous Contacter
+	</BTNCOTACT>
+
+	<GETINTOUCHTITLE>
+		Fait moi un signe!
+	</GETINTOUCHTITLE>
+
+	<GETINTOUCH>
+		Si vous éprouvez des difficultés techniques ou vous voulez simplement avoir l'expertise d'un professionnel veuillez nous contacter.
+	</GETINTOUCH>
+
+	<PAYMENTOPTIONS>
+		Methodes de paiement
+	</PAYMENTOPTIONS>
+</root>

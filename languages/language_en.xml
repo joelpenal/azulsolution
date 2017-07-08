@@ -1,0 +1,134 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<root>
+	<PAGE_TITLE>		
+		Welcome to Azul Solution
+	</PAGE_TITLE>
+	
+	<PAGE_DESC>		
+		Repair of computers at home, satisfaction guaranteed.
+	</PAGE_DESC>
+	
+	<CONTENT_EN>	
+		English
+	</CONTENT_EN>
+	
+	<CONTENT_FR>
+		French
+	</CONTENT_FR>
+
+	<ABOUT>
+		About
+	</ABOUT>
+
+	<SERVICE>
+		Our services
+	</SERVICE>
+
+	<CONTACT>
+		Contact us
+	</CONTACT>
+
+	<LOGO>
+		A solution to your computer problems
+	</LOGO>
+
+	<BtnMore>
+		Find out more
+	</BtnMore>
+	
+	<AboutTitle>
+		Who we are
+	</AboutTitle>
+
+	<AboutDesc>
+		Azul solution is a young company specialized in technical support and computers repair. We are at your service to meet your needs in a fast and personalized way.	
+	</AboutDesc>
+
+	<btnAbout>
+		Discover our services
+	</btnAbout>
+
+	<servicesHeader>
+		At Your Service
+	</servicesHeader>
+
+	<WEBSRVTITLE>
+		Web development
+	</WEBSRVTITLE>
+
+	<WEBSRVDESC>
+		Creation of Web sites, hosting and maintenance
+	</WEBSRVDESC>
+
+	<HardwareSrvTitle>
+		Hardware
+	</HardwareSrvTitle>
+
+	<HardwareSrvDesc>
+		Installation and repair of computer equipment
+	</HardwareSrvDesc>
+
+	<SoftSrvTitle>
+		Software
+	</SoftSrvTitle>
+
+	<SoftSrvDesc>
+		Installation and System Configuration
+	</SoftSrvDesc>
+
+	<TabletSrvTitle>
+		Tablets
+	</TabletSrvTitle>
+
+	<TabletSrvDesc>
+		Support, installation and information on best practices of use
+	</TabletSrvDesc>
+
+	<VirusSrvTitle>
+		Virus
+	</VirusSrvTitle>
+
+	<VirusSrvDesc>
+		Malicious File Cleaning and Optimization
+	</VirusSrvDesc>
+
+	<RecoverySrvTitle>
+		Data recovery
+	</RecoverySrvTitle>
+
+	<RecoverySrvDesc>
+		Hard drive PC/Mac, USB key and SSD cards
+	</RecoverySrvDesc>
+
+	<RemoteSrvTitle>
+		Remote support
+	</RemoteSrvTitle>
+
+	<RemoteSrvDesc>
+		Why loses more time if we can help you remotely
+	</RemoteSrvDesc>
+
+	<FormationSrvTitle>
+		Training
+	</FormationSrvTitle>
+
+	<FormationSrvDesc>
+		Computer courses adapted to your needs
+	</FormationSrvDesc>
+	
+	<BTNCOTACT>
+		Contact us
+	</BTNCOTACT>
+
+	<GETINTOUCHTITLE>
+		Let's Get In Touch!
+	</GETINTOUCHTITLE>
+
+	<GETINTOUCH>
+		If you are experiencing technical difficulties or you simply want to have the expertise of a professional please contact us.
+	</GETINTOUCH>
+
+	<PAYMENTOPTIONS>		
+		Payment Methods
+	</PAYMENTOPTIONS>
+</root>

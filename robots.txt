@@ -1,0 +1,22 @@
+User-agent: Acoon
+User-agent: AmfibiBOT
+User-agent: amibot
+User-agent: ExactSeek
+User-agent: Crawler
+User-agent: FAST-WebCrawler
+User-agent: ia_archiver
+User-agent: Internet
+User-agent: Cruiser
+User-agent: Robot
+User-agent: KIT-Fireball
+User-agent: RoboCrawl
+User-agent: Scrubby
+User-agent: Walhello
+User-agent: appie
+User-agent: winona
+User-agent: Wotbox
+Disallow: /
+Disallow: /?lang=en
+Disallow: /?lang=fr
+
+
