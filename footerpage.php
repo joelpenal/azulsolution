@@ -7,16 +7,16 @@
                     </div>
                     <div class="footer-col col-md-4">
                         <h3 class="h3 footer-title"><?php echo $PAYMENTOPTIONS; ?></h3>
-                            <div class="col-lg-3 text-center">
+                            <div class="col-lg-3 col-md-3 col-ms-3 col-xs-3 text-center">
                                 <img src="img/masterlogo.png" alt="Recovery" style="height:20px;width:55px"/>
                             </div>
-                            <div class="col-lg-3 text-center">
+                            <div class="col-lg-3 col-md-3 col-ms-3 col-xs-3 text-center">
                                 <img src="img/visalogo.png" alt="Recovery" style="height:20px;width:55px"/>
                             </div>
-                            <div class="col-lg-3 text-center">
+                            <div class="col-lg-3 col-md-3 col-ms-3 col-xs-3 text-center">
                                 <img src="img/moneylogo.png" alt="Recovery" style="height:20px;width:55px"/>
                             </div>
-                            <div class="col-lg-3 text-center">
+                            <div class="col-lg-3 col-md-3 col-ms-3 col-xs-3 text-center">
                                 <img src="img/paypallogo.png" alt="Recovery" style="height:20px;width:55px"/>
                             </div>
                     </div>

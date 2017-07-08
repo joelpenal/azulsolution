@@ -379,7 +379,7 @@ fieldset[disabled] .btn-primary.active {
   background-color: #F05F40;
   border-color: #F05F40;
 }
-.btn-primary .badge {
+.btn-primary  {
   color: #F05F40;
   background-color: white;
 }

@@ -50,6 +50,9 @@ require_once('funtion/funtions.php');
     </script>
     <!--End of Tawk.to Script-->
 
+    <!-- Website CSS -->
+    <link href="css/azulsolution.css" rel="stylesheet">
+
         
         
     </head>
