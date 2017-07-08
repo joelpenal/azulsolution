@@ -34,7 +34,7 @@ require_once('funtion/funtions.php');
     <link href="vendor/magnific-popup/magnific-popup.css" rel="stylesheet">
 
     <!-- Theme CSS -->
-    <link href="css/creative.min.css" rel="stylesheet">
+    <link href="css/_creative.min.css" rel="stylesheet">
     
     <!--Start of Tawk.to Script-->
     <script type="text/javascript">
@@ -83,10 +83,10 @@ require_once('funtion/funtions.php');
                         <a class="page-scroll" href="#contact"><?php echo $CONTACT; ?></a>
                     </li>
                     <li>                     
-                        <div class="language-div">                         
-		                    <a href="http://azulsolution.com" ><?php echo $CONTENT_FR; ?></a> 
-                            <a href="http://azulsolution.com/?lang=en" ><?php echo $CONTENT_EN; ?></a>
-                        </div>                                                                
+                        <a class="page-scroll" href="/" >/<?php echo $CONTENT_FR; ?></a>                                                       
+                     </li>  
+                     <li>                     
+                            <a class="page-scroll" href="/?lang=en" >/<?php echo $CONTENT_EN; ?></a>                                        
                      </li>  
                 </ul>
             </div>

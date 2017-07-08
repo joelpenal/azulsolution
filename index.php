@@ -30,9 +30,9 @@ require_once('funtion/funtions.php');
             <div class="row">
                 <div class="col-lg-8 col-lg-offset-2 text-center">
                     <h2 class="section-heading"><?php echo $AboutTitle; ?></h2>
-                    <hr class="light">
-                    <p class="text-faded"><?php echo $AboutDesc; ?></p>
-                    <a href="#services" class="page-scroll btn btn-default btn-xl sr-button"><?php echo $btnAbout; ?></a>
+                    <hr>
+                    <p class=""><?php echo $AboutDesc; ?></p>
+                    <a href="#services" class="page-scroll btn btn-primary btn-xl sr-button"><?php echo $btnAbout; ?></a>
                 </div>
             </div>
         </div>
@@ -59,14 +59,14 @@ require_once('funtion/funtions.php');
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-desktop sr-icons"></i>
+                        <i class="fa fa-4x fa-desktop text-web sr-icons"></i>
                         <h3><?php echo $HardwareSrvTitle; ?></h3>
                         <p class="text-muted"><?php echo $HardwareSrvDesc; ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-windows text-info sr-icons"></i>
+                        <i class="fa fa-4x fa-windows text-web sr-icons"></i>
                         <h3><?php echo $SoftSrvTitle; ?></h3>
                         <p class="text-muted"><?php echo $SoftSrvDesc; ?></p>
                     </div>          
@@ -82,21 +82,21 @@ require_once('funtion/funtions.php');
 
                 <div class="col-lg-3 col-md-6 col-sm-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-book text-success sr-icons" aria-hidden="true"></i>
+                        <i class="fa fa-4x fa-book text-web sr-icons" aria-hidden="true"></i>
                         <h3><?php echo $FormationSrvTitle; ?></h3>
                         <p class="text-muted"><?php echo $FormationSrvDesc; ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-mouse-pointer sr-icons"></i>
+                        <i class="fa fa-4x fa-mouse-pointer text-web sr-icons"></i>
                         <h3><?php echo $RemoteSrvTitle; ?></h3>
                         <p class="text-muted"><?php echo $RemoteSrvDesc; ?></p>
                     </div>
                 </div>
                 <div class="col-lg-3 col-md-6 col-sm-6 text-center">
                     <div class="service-box">
-                        <i class="fa fa-4x fa-exclamation-triangle text-danger sr-icons"></i>
+                        <i class="fa fa-4x fa-exclamation-triangle text-web sr-icons"></i>
                         <h3><?php echo $VirusSrvTitle; ?></h3>
                         <p class="text-muted"><?php echo $VirusSrvDesc; ?></p>
                     </div>
